@@ -19,7 +19,8 @@
 
 - ⚡ Fun fact **Supun Madushan**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="left">
 <a href="https://linkedin.com/in/supun madushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supun madushan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sl top5 vlog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sl top5 vlog" height="30" width="40" /></a>
